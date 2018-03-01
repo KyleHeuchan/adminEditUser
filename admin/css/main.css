@@ -1,0 +1,66 @@
+body
+{
+  font-family: sans-serif, Arial, times;
+}
+
+.welcomeMessage
+{
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+}
+
+#mainMessage
+{
+  color: grey;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 50px;
+}
+
+form input
+{
+  margin-top: 30px;
+  padding: 10px;
+  border-radius: 15px;
+  margin-left: 10px;
+  border: none;
+}
+
+form
+{
+  display: block;
+  text-align: center;
+  color: grey;
+  margin-top: 30px;
+}
+
+#submit
+{
+  margin-top: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: white;
+  font-weight: bold;
+}
+
+#submit:hover
+{
+  cursor: pointer;
+  background-color: #eee;
+}
+
+#incorrect
+{
+  text-align: center;
+  color: white;
+}
+
+#loginBlank
+{
+  color: white;
+  text-align: center;
+  margin-top: 180px;
+}
